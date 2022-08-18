@@ -9,7 +9,7 @@ Para ello usaremos como herramienta el lenguaje Wollok.
 ```
 object programacionConObjetos { 
     method saludar() { 
-        return  "Bienvenidxs!" 
+        return  "Hola, mi nombre es gabriel, y estoy cursando la tecnicatura univercitaria en programacion" 
     }
 }
 ```
